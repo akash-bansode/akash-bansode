@@ -5,7 +5,7 @@
 
 - 🌱 The journey of **continuous learning knows no limits.**
 
-- 👨‍💻 Witness my portfolio [https://akashbansode.netlify.app/](https://akashbansode.netlify.app/)
+- 👨‍💻 Witness my portfolio [https://aakashbansode.netlify.app/](https://aakashbansode.netlify.app/)
 
 - 💬 Ask me about **Web Development**
 
